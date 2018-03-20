@@ -1,14 +1,13 @@
+
 import React, {Component} from 'react';
 
 class Message extends Component {
   render() {
     return (
-        <main className="messages">
-            <div className="message">
-                <span className="message-username">Anonymous1</span>
-                <span className="message-content">I won't be impressed with technology until I can download food.</span>
-            </div>
-      </main>
+      <div className="message">
+        <span className="message-username">{this.props.username}</span>
+        <span className="message-content" key={this.props.id}>{this.props.content}</span>
+      </div>
     )
   }
 }
