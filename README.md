@@ -1,6 +1,6 @@
 # Chatty App
 
-!["Screenshot - compose a tweet"](https://github.com/Jorgelduarte/tweeter/blob/master/docs/screenshot1.png)
+!["Screenshot - compose a tweet"](https://github.com/Jorgelduarte/chattyApp/blob/master/docs/screenShot.png)
 
 
 React Boilerplate
