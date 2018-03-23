@@ -87,3 +87,15 @@ body {
   padding: 0 10px;
   text-decoration: none;
 }
+
+.notification {
+  display: flex;
+  padding: 25px;
+  color: blue;
+}
+
+.counter {
+  color: black;
+  float: right;
+  padding: 25px;
+}
